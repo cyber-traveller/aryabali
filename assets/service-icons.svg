@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <!-- Events Icon -->
+    <symbol id="events-icon" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <path d="M30 40h40v30H30z" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <path d="M35 30v10M65 30v10M30 55h40" stroke="#D4AF37" stroke-width="2"/>
+    </symbol>
+
+    <!-- Weddings Icon -->
+    <symbol id="weddings-icon" viewBox="0 0 100 100">
+        <circle cx="35" cy="50" r="20" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <circle cx="65" cy="50" r="20" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <path d="M50 30l15 20-15 20-15-20z" fill="none" stroke="#D4AF37" stroke-width="2"/>
+    </symbol>
+
+    <!-- Travel Icon -->
+    <symbol id="travel-icon" viewBox="0 0 100 100">
+        <path d="M20 50h60l-30-25v50z" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <circle cx="50" cy="50" r="35" fill="none" stroke="#D4AF37" stroke-width="2"/>
+        <path d="M50 20v10M50 70v10M20 50h10M70 50h10" stroke="#D4AF37" stroke-width="2"/>
+    </symbol>
+</svg>

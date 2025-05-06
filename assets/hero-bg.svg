@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <!-- Gradient Sky Background -->
+    <defs>
+        <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#FF7F50;stop-opacity:0.8"/>
+            <stop offset="100%" style="stop-color:#2F4F4F;stop-opacity:0.9"/>
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#skyGradient)"/>
+
+    <!-- Decorative Palm Trees Silhouettes -->
+    <g fill="#000000" opacity="0.6">
+        <!-- Left Palm Tree -->
+        <path d="M300 800c0 0-20-40-10-80s30-60 40-90c10-30 0-60-10-80s-30-40-20-60c10-20 30-30 50-20s30 30 20 50c-10 20-30 40-20 60s30 40 40 60c10 20 10 40 0 60s-20 40-30 60c-10 20-20 40-30 50c-10 10-20 0-30-10z"/>
+        
+        <!-- Right Palm Tree -->
+        <path d="M1620 750c0 0 20-40 10-80s-30-60-40-90c-10-30 0-60 10-80s30-40 20-60c-10-20-30-30-50-20s-30 30-20 50c10 20 30 40 20 60s-30 40-40 60c-10 20-10 40 0 60s20 40 30 60c10 20 20 40 30 50c10 10 20 0 30-10z"/>
+    </g>
+
+    <!-- Ocean Waves -->
+    <path d="M0 900c100-20 200-40 300-20s200 40 300 20s200-40 300-20s200 40 300 20s200-40 300-20s200 40 300 20s200-40 300-20v200H0z" fill="#2F4F4F" opacity="0.4"/>
+    <path d="M0 950c100-20 200-40 300-20s200 40 300 20s200-40 300-20s200 40 300 20s200-40 300-20s200 40 300 20s200-40 300-20v200H0z" fill="#2F4F4F" opacity="0.6"/>
+</svg>
